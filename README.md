@@ -1,0 +1,2 @@
+# bingblog
+blog
